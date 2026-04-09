@@ -9,6 +9,7 @@ Make the page structurally correct, replace generic divs with suitable semantic 
 
 ### Task 2
 Cheat-sheet mini project
+
 Create a simple page called cheatsheet.html with an external file cheatsheet.css.
 
 #### Brief
