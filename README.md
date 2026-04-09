@@ -2,7 +2,7 @@
 
 ## Student task
 ### Task 1
-Fix all HTML and CSS errors (at least 10).
+Fix all HTML and CSS errors in files *broken.html* and *broken-style.css* (at least 10), rename them to *fixed.html* and *fixed-style.css*.
 Make the page structurally correct, replace generic divs with suitable semantic elements, add meaningful alt text, and correct the CSS so the page displays neatly with working margin and padding.
 
 ### Task 2
